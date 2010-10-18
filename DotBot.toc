@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: |cffC495DDDot|r |cffffd200|rBot
+## Notes: Advanced DoT tracker
+## Author: Affli @ Howling Fjord (RU)
+## Version 1
+## X-Website: http://github.com/Affli/DotBot
+
+DotBot.lua
